@@ -1,0 +1,20 @@
+.branche-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.branche-lupetti{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 0 100px 0 0 ;
+}
+.branche-esploratori{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 0 100px 0 0 ;
+}

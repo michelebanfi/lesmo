@@ -1,0 +1,15 @@
+.footer-wrapper{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-contatti{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #333;
+    color: white;
+    padding: 90px;
+}

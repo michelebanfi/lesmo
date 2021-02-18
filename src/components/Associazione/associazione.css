@@ -1,0 +1,19 @@
+.ass-wrapper{
+}
+.sub-title{
+    font-size: 20px;
+    padding: 0 0 0 40px;
+    color: #333;
+}
+.text{
+    font-size: 17px;
+    padding: 10px 40px 0 40px;
+}
+.list-wrapper{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+li{
+    padding: 10px;
+}
