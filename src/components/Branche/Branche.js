@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./branche.css";
 import lupetti from "./../../media/mowgly.png";
-import esplo from "./../../media/san_giorgio_bp.jpg"
+import esplo from "./../../media/san_giorgio_bp.jpg";
 
 export default class Branche extends Component {
   render() {
@@ -48,11 +48,13 @@ export default class Branche extends Component {
           </div>
         </div>
         <div className="branche-esploratori">
-        <div>
-        <img src={esplo} />
-        </div>
           <div>
-            <div className="title">Esploratori</div>
+            <img src={esplo} />
+          </div>
+          <div>
+            <div className="title" style={{ color: "#e65555" }}>
+              Esploratori
+            </div>
             <div className="text">
               <p>
                 Gli esploratori sono ragazzi dagli 11 ai 16 anni che amano la
@@ -101,6 +103,10 @@ export default class Branche extends Component {
             </div>
           </div>
         </div>
+          <iframe id="calendario"
+            src="https://calendar.google.com/calendar/embed?src=riparto.lesmo%40gmail.com&ctz=Europe%2FRome"
+            style={{ height: "50vh", width: "100%", maxWidth: "1200px", marginTop: "100px" }}
+          ></iframe>
       </div>
     );
   }

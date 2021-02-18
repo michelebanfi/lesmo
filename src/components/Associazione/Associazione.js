@@ -5,7 +5,7 @@ export default class Associazione extends Component {
   render() {
     return (
       <div id="associazione" className="ass-wrapper">
-        <div className="title">Aassociazione</div>
+        <div className="title">Associazione</div>
         <div className="sub-title">
           ASSOCIAZIONE ITALIANA GUIDE E SCOUTS D’EUROPA CATTOLICI
         </div>
@@ -61,7 +61,7 @@ export default class Associazione extends Component {
           </strong>
           .
         </div>
-        <div className="title">Nascita del gruppo</div>
+        <div className="title" style={{color: "#e65555"}}>Nascita del gruppo</div>
         <div className="text">
           L’idea di aprire un nuovo gruppo scout nasce nel 2017, grazie
           all'iniziativa di alcuni capi iscritti al vicino gruppo Vimercate 1,

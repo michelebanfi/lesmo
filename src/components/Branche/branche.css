@@ -18,3 +18,9 @@
     flex-direction: row;
     padding: 0 100px 0 0 ;
 }
+.calendar{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

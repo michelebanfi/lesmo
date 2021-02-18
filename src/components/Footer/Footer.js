@@ -5,13 +5,8 @@ export default class Footer extends Component {
   render() {
     return (
       <>
-        <div id="contatti" className="footer-wrapper">
-          <iframe
-            src="https://calendar.google.com/calendar/embed?src=riparto.lesmo%40gmail.com&ctz=Europe%2FRome"
-            style={{ height: "50vh", width: "100%", maxWidth: "1200px" }}
-          ></iframe>
-        </div>
-        <div className="footer-contatti">
+        
+        <div id="contatti" className="footer-contatti">
           <div>
             <div>
               <div>
