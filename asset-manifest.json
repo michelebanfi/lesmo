@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/lesmo/static/css/main.d8fd498c.chunk.css",
-    "main.js": "/lesmo/static/js/main.65c7e895.chunk.js",
-    "main.js.map": "/lesmo/static/js/main.65c7e895.chunk.js.map",
-    "runtime-main.js": "/lesmo/static/js/runtime-main.87423fa3.js",
-    "runtime-main.js.map": "/lesmo/static/js/runtime-main.87423fa3.js.map",
+    "main.css": "/lesmo/static/css/main.ffde1d02.chunk.css",
+    "main.js": "/lesmo/static/js/main.fd8d365f.chunk.js",
+    "main.js.map": "/lesmo/static/js/main.fd8d365f.chunk.js.map",
+    "runtime-main.js": "/lesmo/static/js/runtime-main.e14c4578.js",
+    "runtime-main.js.map": "/lesmo/static/js/runtime-main.e14c4578.js.map",
     "static/js/2.e2b35744.chunk.js": "/lesmo/static/js/2.e2b35744.chunk.js",
     "static/js/2.e2b35744.chunk.js.map": "/lesmo/static/js/2.e2b35744.chunk.js.map",
-    "static/js/3.6c4e1cf7.chunk.js": "/lesmo/static/js/3.6c4e1cf7.chunk.js",
-    "static/js/3.6c4e1cf7.chunk.js.map": "/lesmo/static/js/3.6c4e1cf7.chunk.js.map",
+    "static/js/3.09c028e4.chunk.js": "/lesmo/static/js/3.09c028e4.chunk.js",
+    "static/js/3.09c028e4.chunk.js.map": "/lesmo/static/js/3.09c028e4.chunk.js.map",
     "index.html": "/lesmo/index.html",
-    "static/css/main.d8fd498c.chunk.css.map": "/lesmo/static/css/main.d8fd498c.chunk.css.map",
+    "static/css/main.ffde1d02.chunk.css.map": "/lesmo/static/css/main.ffde1d02.chunk.css.map",
     "static/js/2.e2b35744.chunk.js.LICENSE.txt": "/lesmo/static/js/2.e2b35744.chunk.js.LICENSE.txt",
-    "static/media/background.053a8398.jpg": "/lesmo/static/media/background.053a8398.jpg",
+    "static/media/logo.c2fd9a69.png": "/lesmo/static/media/logo.c2fd9a69.png",
     "static/media/mowgly.b5b44c44.png": "/lesmo/static/media/mowgly.b5b44c44.png",
     "static/media/san_giorgio_bp.1713cc75.jpg": "/lesmo/static/media/san_giorgio_bp.1713cc75.jpg",
-    "static/media/separator.b0ac2611.svg": "/lesmo/static/media/separator.b0ac2611.svg"
+    "static/media/separator.752ca8c7.svg": "/lesmo/static/media/separator.752ca8c7.svg",
+    "static/media/separator2.3092165f.svg": "/lesmo/static/media/separator2.3092165f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87423fa3.js",
+    "static/js/runtime-main.e14c4578.js",
     "static/js/2.e2b35744.chunk.js",
-    "static/css/main.d8fd498c.chunk.css",
-    "static/js/main.65c7e895.chunk.js"
+    "static/css/main.ffde1d02.chunk.css",
+    "static/js/main.fd8d365f.chunk.js"
   ]
 }
