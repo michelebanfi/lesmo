@@ -13,7 +13,6 @@ export default class App extends Component {
     return (
       <>
         <Thumbail />
-
         <Associazione />
         <img className="back" src={Separator} />
         <Branche />

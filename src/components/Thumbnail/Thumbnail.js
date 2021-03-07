@@ -24,7 +24,7 @@ export default class Thumbnail extends Component {
         </div>
         <div className="center-things">
           <div className="title">
-            <div>Gruppo scout FSE<br></br> Mons. Andrea Ghetti</div>
+            <div>Gruppo scout FSE<br></br> San Carlo</div>
             <div style={{color: "#e65555"}}>LESMO 1°</div>
           </div>
           <img src={logo} />
