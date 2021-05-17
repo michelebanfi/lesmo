@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/lesmo/static/css/main.02658189.chunk.css",
-    "main.js": "/lesmo/static/js/main.f3751776.chunk.js",
-    "main.js.map": "/lesmo/static/js/main.f3751776.chunk.js.map",
+    "main.css": "/lesmo/static/css/main.6c487f28.chunk.css",
+    "main.js": "/lesmo/static/js/main.f5a9e3ed.chunk.js",
+    "main.js.map": "/lesmo/static/js/main.f5a9e3ed.chunk.js.map",
     "runtime-main.js": "/lesmo/static/js/runtime-main.e14c4578.js",
     "runtime-main.js.map": "/lesmo/static/js/runtime-main.e14c4578.js.map",
     "static/js/2.e2b35744.chunk.js": "/lesmo/static/js/2.e2b35744.chunk.js",
@@ -10,8 +10,10 @@
     "static/js/3.09c028e4.chunk.js": "/lesmo/static/js/3.09c028e4.chunk.js",
     "static/js/3.09c028e4.chunk.js.map": "/lesmo/static/js/3.09c028e4.chunk.js.map",
     "index.html": "/lesmo/index.html",
-    "static/css/main.02658189.chunk.css.map": "/lesmo/static/css/main.02658189.chunk.css.map",
+    "static/css/main.6c487f28.chunk.css.map": "/lesmo/static/css/main.6c487f28.chunk.css.map",
     "static/js/2.e2b35744.chunk.js.LICENSE.txt": "/lesmo/static/js/2.e2b35744.chunk.js.LICENSE.txt",
+    "static/media/associazione.css": "/lesmo/static/media/back.9b7f5866.svg",
+    "static/media/branche.css": "/lesmo/static/media/back1.6f9a568d.svg",
     "static/media/logo.c2fd9a69.png": "/lesmo/static/media/logo.c2fd9a69.png",
     "static/media/mowgly.b5b44c44.png": "/lesmo/static/media/mowgly.b5b44c44.png",
     "static/media/san_giorgio_bp.1713cc75.jpg": "/lesmo/static/media/san_giorgio_bp.1713cc75.jpg",
@@ -21,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.e14c4578.js",
     "static/js/2.e2b35744.chunk.js",
-    "static/css/main.02658189.chunk.css",
-    "static/js/main.f3751776.chunk.js"
+    "static/css/main.6c487f28.chunk.css",
+    "static/js/main.f5a9e3ed.chunk.js"
   ]
 }
