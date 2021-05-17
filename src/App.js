@@ -14,9 +14,7 @@ export default class App extends Component {
       <>
         <Thumbail />
         <Associazione />
-        <img className="back" src={Separator} />
         <Branche />
-        <img className="back" src={Separator2} />
         <Footer />
       </>
     );

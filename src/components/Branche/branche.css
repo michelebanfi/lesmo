@@ -1,27 +1,49 @@
-.branche-wrapper{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.branche-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 300px;
+}
+.branche-lupetti {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  padding: 0 100px 0 0;
+}
+.branche-esploratori {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  padding: 0 100px 0 0;
+}
+.calendar {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media only screen and (max-width: 1500px) {
+  .branche-wrapper {
+    padding: 100px;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  .branche-esploratori {
     flex-direction: column;
-    padding: 300px;
+    padding: 10px 0 0 0;
+    
+  }
+  .branche-lupetti {
+    flex-direction: column-reverse;
+    padding: 10px 0 0 0;
+  }
 }
-.branche-lupetti{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    padding: 0 100px 0 0 ;
-}
-.branche-esploratori{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    padding: 0 100px 0 0 ;
-}
-.calendar{
-    padding: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+@media only screen and (max-width: 600px) {
+  .branche-wrapper {
+    padding: 10px;
+  }
 }
