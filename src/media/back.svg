@@ -1,9 +1,11 @@
-<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080" style="overflow:visible;enable-background:new 0 0 1920 1080;" xml:space="preserve">
-    <style type="text/css">
-	.st0{opacity:0.5;fill:#E65555;}
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1920px"
+	 height="834.55px" viewBox="0 0 1920 834.55" style="enable-background:new 0 0 1920 834.55;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:1;fill:#f9f9f9;}
 </style>
-    <defs></defs>
-    <path class="st0" d="M0,1080h1920V0c0,0-57,25-93,138s1,300-167,369s-286,148-380,284s-258,243-357,209S779,843,583,863
-	s-195,94-316,101S10,1047,0,1080z" />
+<defs>
+</defs>
+<path class="st0" d="M0,114.18c0,0,246-112,537-57s815,87,941,21s378-91,442-72v794c0,0-313-85-515-18s-458,66-557,18
+	s-675-157-848-36V114.18z"/>
 </svg>

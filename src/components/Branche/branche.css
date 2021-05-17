@@ -4,6 +4,8 @@
   justify-content: center;
   flex-direction: column;
   padding: 300px;
+  background-image: url("./../../media/back1.svg");
+  background-repeat: no-repeat;
 }
 .branche-lupetti {
   display: flex;
