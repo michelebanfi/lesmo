@@ -103,10 +103,16 @@ export default class Branche extends Component {
             </div>
           </div>
         </div>
-          <iframe id="calendario"
-            src="https://calendar.google.com/calendar/embed?src=riparto.lesmo%40gmail.com&ctz=Europe%2FRome"
-            style={{ height: "50vh", width: "100%", maxWidth: "1200px", marginTop: "100px" }}
-          ></iframe>
+        <iframe
+          id="calendario"
+          src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FRome&src=c2NvdXQubGVzbW9AZ21haWwuY29t&color=%23039BE5"
+          style={{
+            height: "50vh",
+            width: "100%",
+            maxWidth: "1200px",
+            marginTop: "100px",
+          }}
+        ></iframe>
       </div>
     );
   }
